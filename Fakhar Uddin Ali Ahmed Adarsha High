@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Admission Form</title>
+</head>
+<body>
+
+<h2>School Admission Form</h2>
+
+<form>
+Name: <input type="text"><br><br>
+Father Name: <input type="text"><br><br>
+Mobile: <input type="text"><br><br>
+Class: <input type="text"><br><br>
+
+<button>Submit</button>
+</form>
+
+</body>
+</html>
